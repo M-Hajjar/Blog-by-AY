@@ -1,4 +1,4 @@
-# Blog Repository
+# Blog By AY
 
 Welcome to the Blog Repository! This project is designed to facilitate the creation, management, and sharing of blog posts. Whether you're a seasoned blogger or just getting started, this repository provides the tools you need to publish your thoughts and ideas seamlessly.
 
